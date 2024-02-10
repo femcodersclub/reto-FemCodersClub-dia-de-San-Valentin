@@ -55,10 +55,12 @@ main {
   }
   
   .mensaje h2 {
-    margin-bottom: 10px;
+    margin-top: 150px;
+    color:#3e3990;
   }
+
   .efecto-maquina-escribir {
-    animation: escribir 2s linear infinite;
+    animation: escribir 4s linear infinite;
     white-space: nowrap;
     overflow: hidden;
   }
@@ -67,8 +69,8 @@ main {
     0% {
       width: 0;
     }
-    50% {
-      width: 50%;
+    100% {
+      width: 100%;
     }
   }
   
