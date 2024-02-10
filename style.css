@@ -54,9 +54,24 @@ main {
     padding: 20px;
   }
   
-  .mensaje p {
+  .mensaje h2 {
     margin-bottom: 10px;
   }
+  .efecto-maquina-escribir {
+    animation: escribir 2s linear infinite;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  @keyframes escribir {
+    0% {
+      width: 0;
+    }
+    50% {
+      width: 50%;
+    }
+  }
+  
   
   /* Formulario */
   .mensaje form {
