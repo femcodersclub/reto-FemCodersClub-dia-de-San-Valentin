@@ -1,5 +1,5 @@
 # Reto del Día de San Valentín
-<p align="center"><img alt="logo cupido" width="300" height="200" src="https://github.com/femcodersclub/reto-FemCodersClub-dia-de-San-Valentin/assets/158848998/9460464b-3332-4bd5-b9f7-d6a23560893c"></p>
+<p align="center"><img alt="logo cupido" width="200" height="200" src="https://github.com/femcodersclub/reto-FemCodersClub-dia-de-San-Valentin/assets/158848998/9460464b-3332-4bd5-b9f7-d6a23560893c"></p>
 
 # Reto de San Valentín 💖
 
