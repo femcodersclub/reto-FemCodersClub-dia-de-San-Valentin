@@ -9,7 +9,7 @@
 
 El objetivo de este reto es crear una aplicación, script o proyecto relacionado con San Valentín. Puede ser cualquier cosa, desde una tarjeta electrónica hasta un generador de poemas románticos, o bien puedes personalizar este. ¡La creatividad es clave!
 
-También puedes clicar [Aquí](https://femcodersclub.github.io/reto-FemCodersClub-dia-de-San-Valentin/) para descubrir que mensaje ha dejado <strong>Cupido</strong>para ti. 
+También puedes clicar [Aquí](https://femcodersclub.github.io/reto-FemCodersClub-dia-de-San-Valentin/) para descubrir que mensaje ha dejado <strong>Cupido</strong> para ti. 
 
 ## Cómo Participar
 
