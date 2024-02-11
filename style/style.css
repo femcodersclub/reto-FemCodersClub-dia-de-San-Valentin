@@ -56,6 +56,7 @@ main {
   margin-top: 10.5rem;
   background: linear-gradient(to right, #6b0000, #ff0000);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
@@ -149,4 +150,9 @@ main {
   outline: none;
   box-shadow: 0 0 5px #6b0000;
   border-color: #ff0000;
+}
+#nameError {
+  color: #ff0000;
+  display: none;
+  
 }
