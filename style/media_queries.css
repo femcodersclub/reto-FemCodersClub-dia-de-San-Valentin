@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px){
+	main {
+        display: flex;
+		flex-direction: column;
+        align-items: center;
+    }
+
+    section.mensaje {
+        width: 95vw;
+    }
+
+    h2.efecto-maquina-escribir {
+        margin-top: 0 !important;
+        font-size: 0.9rem;
+    }
+
+    div.overlay.card.glassmorphism {
+        width: 80vw !important;
+    }
+
+    div.overlay.card.glassmorphism a {
+        margin-top: 5px;
+    }
+} 
