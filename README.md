@@ -5,7 +5,7 @@
 
 ¡Bienvenido al Reto de San Valentín! 🌹 Este desafío es una oportunidad para celebrar el amor y la amistad a través del desarrollo web ¡Esperamos que te diviertas participando y creando algo especial!
 
-Clica [Aquí](https://femcodersclub.github.io/reto-FemCodersClub-dia-de-San-Valentin/) para descubrir que mensaje ha dejado <strong>Cupido</strong> para ti. 
+:fast_forward:Clica [Aquí](https://femcodersclub.github.io/reto-FemCodersClub-dia-de-San-Valentin/) para descubrir que mensaje :love_letter: ha dejado <strong>Cupido</strong> para ti. 
 
 
 ## :computer:Desafío
@@ -27,7 +27,7 @@ Si necesitas inspiración, no dudes en explorar los proyectos de otros participa
 
 ¡Estamos abiertos a nuevas ideas! Si tienes sugerencias para mejorar este reto o quieres añadir nuevas características, siéntete libre de abrir un issue o enviar un pull request.
 
-## :love_letter:Agradecimientos
+## Agradecimientos
 
 Agradecemos a todos los participantes por contribuir y hacer de este reto una experiencia única.
 
