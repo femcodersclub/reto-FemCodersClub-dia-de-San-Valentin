@@ -1,9 +1,6 @@
 # Reto del Día de San Valentín
 
-<video width="560" height="315" controls autoplay loop>
-  <source src="./img/FemCoders Club - Reto San Valentin - Hecho con Clipchamp_1707698313417.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center"><img alt="logo cupido" width="200" height="200" src="https://github.com/femcodersclub/reto-FemCodersClub-dia-de-San-Valentin/assets/158848998/9460464b-3332-4bd5-b9f7-d6a23560893c"></p>
 
 # Reto de San Valentín 💖
 

@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const nameInput = document.getElementById("name");
       const name = nameInput.value;
 
-      const regex = /^[A-Za-z]+$/;
+      const regex = /^[\p{L}\s]+$/u;
 
       if (!regex.test(name)) {
         document.getElementById("nameError").style.display = "block";

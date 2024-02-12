@@ -1,15 +1,15 @@
 function getRandomMessage() {
   const messages = [
-    "Tu amor ilumina mis días más oscuros.",
+    "Tú amor ilumina mis días más oscuros.",
     "En este día de amor y amistad, te envío mis mejores deseos. ¡Feliz San Valentín!",
-    "Tu amistad es un regalo valioso. ¡Feliz Día de San Valentín!",
-    "Que este día esté lleno de amor y alegría para ti¡Feliz San Valentin!",
+    "Tú amistad es un regalo valioso. ¡Feliz Día de San Valentín!",
+    "Que este día esté lleno de amor y alegría para ti. ¡Feliz San Valentín!",
     "Que este día esté lleno de afecto y buenos momentos. ¡Feliz San Valentín para ti!",
-    "Gracias por ser una parte tan importante de mi mundo.",
+    "Gracias por ser una parte tan importante de mí mundo.",
     "Celebremos el amor en todas sus formas. ¡Feliz San Valentín a una persona increíble!",
     "En este día especial, quiero recordarte lo increíble que eres. ¡Feliz San Valentín!",
     "Que este día esté lleno de momentos especiales y cariño. ¡Feliz San Valentín para ti!",
-    "Cada momento a tu lado es una aventura mágica. Feliz Día de San Valentín.",
+    "Cada momento a tu lado es una aventura mágica. ¡Feliz Día de San Valentí!",
     "¡Feliz Día de San Valentín! Que este día esté lleno de amor, amistad y felicidad.",
   ];
 
