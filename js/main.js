@@ -1,5 +1,3 @@
-console.log("Fem Coders Club funciona");
-
 document.addEventListener("DOMContentLoaded", function () {
   document
     .getElementById("myForm")

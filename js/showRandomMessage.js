@@ -1,4 +1,3 @@
-// Necesito más mensajes
 function getRandomMessage() {
   const messages = [
     "Tu amor ilumina mis días más oscuros.",
@@ -11,7 +10,7 @@ function getRandomMessage() {
     "En este día especial, quiero recordarte lo increíble que eres. ¡Feliz San Valentín!",
     "Que este día esté lleno de momentos especiales y cariño. ¡Feliz San Valentín para ti!",
     "Cada momento a tu lado es una aventura mágica. Feliz Día de San Valentín.",
-    "¡Feliz Día de San Valentín! Que este día esté lleno de amor, amistad y felicidad."
+    "¡Feliz Día de San Valentín! Que este día esté lleno de amor, amistad y felicidad.",
   ];
 
   const storedMessages =
@@ -41,4 +40,3 @@ document.addEventListener("DOMContentLoaded", function () {
     randomMessageDiv.innerText = getRandomMessage();
   }
 });
-

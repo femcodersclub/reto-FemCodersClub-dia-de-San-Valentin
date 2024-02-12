@@ -16,7 +16,6 @@ main {
   flex-wrap: wrap;
 }
 
-/* Sección de Cupido */
 .cupido {
   width: 50%;
   padding: 20px;
@@ -48,7 +47,6 @@ main {
   }
 }
 
-/* Sección de mensaje */
 .mensaje {
   width: 50%;
   padding: 20px;
@@ -83,7 +81,6 @@ main {
   }
 }
 
-/* Formulario */
 .mensaje form {
   display: flex;
   flex-direction: column;
