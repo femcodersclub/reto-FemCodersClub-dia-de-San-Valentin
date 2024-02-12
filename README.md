@@ -1,9 +1,9 @@
 # Reto del Día de San Valentín
+
 <video width="560" height="315" controls autoplay loop>
-  <source src="img/FemCoders Club - Reto San Valentin - Hecho con Clipchamp_1707698313417.mp4" type="video/mp4">
+  <source src="./img/FemCoders Club - Reto San Valentin - Hecho con Clipchamp_1707698313417.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 # Reto de San Valentín 💖
 
